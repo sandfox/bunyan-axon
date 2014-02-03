@@ -1,0 +1,29 @@
+{
+  "name": "bunyan-axon",
+  "version": "0.0.0",
+  "description": "axon transport for bunyan logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandfox/bunyan-axon.git"
+  },
+  "keywords": [
+    "bunyan",
+    "axon",
+    "log",
+    "transport"
+  ],
+  "author": "sandfox",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.17.1",
+    "bunyan": "^0.22.1",
+    "should": "^3.1.2"
+  }
+}
