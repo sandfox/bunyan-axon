@@ -1,5 +1,9 @@
 # Bunyan-Axon
 
+[![Build Status](https://travis-ci.org/sandfox/bunyan-axon.png?branch=master)](https://travis-ci.org/sandfox/bunyan-axon)
+
+[![NPM](https://nodei.co/npm/bunyan-axon.png?compact=true)](https://nodei.co/npm/bunyan-axon/)
+
 Axon transport for raw bunyan streams
 
 Still WIP but works on my machine certified. Open to pull requests and suggestions
