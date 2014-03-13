@@ -1,6 +1,6 @@
 {
   "name": "bunyan-axon",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "axon transport for bunyan logs",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "author": "sandfox",
   "license": "MIT",
   "dependencies": {
-    "axon": "^1.0.0"
+    "axon": "^2.0.0"
   },
   "devDependencies": {
     "mocha": "^1.17.1",

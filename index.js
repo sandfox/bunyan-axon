@@ -40,9 +40,8 @@ function createStream(opts) {
 function createSocket(address, isBinding){
 
   var port;
-  var address
+  var address;
   var sock = axon.socket('pub');
-  sock.format('json');
 
   if (typeof address == 'string') {
     address = url.parse(address);

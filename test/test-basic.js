@@ -8,7 +8,6 @@ var baxon = require('../');
 var axon = require('axon');
 
 var server = axon.socket('sub');
-server.format('json');
 server.bind("tcp://127.0.0.1:9010")
 
 var log = bunyan.createLogger({
